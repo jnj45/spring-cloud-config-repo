@@ -1,0 +1,6 @@
+token:
+  expiration: 86400000 # 60 * 60 * 24 * 1000
+  secret: dev-your-very-secure-and-long-key-which-must-be-at-least-64-bytes!-must-be-saved-in-enviroment-properties-and-changes
+
+gateway:
+  ip: 127.0.0.1
